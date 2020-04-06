@@ -112,7 +112,7 @@ jQuery(document).ready(function( $ ) {
 
 
   // Porfolio - uses the magnific popup jQuery plugin
-  $('.portfolio-popup').magnificPopup({
+  $('.EnsAjuden-popup').magnificPopup({
     type: 'image',
     removalDelay: 300,
     mainClass: 'mfp-fade',
