@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # --- Basic options --- #
 
 # Name of website
@@ -208,3 +209,8 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+=======
+
+#Build settings
+theme: jekyll-theme-modernist
+>>>>>>> 8c1344f8e3f36b8fb3d1450eedccf10e4d3e1ba3
